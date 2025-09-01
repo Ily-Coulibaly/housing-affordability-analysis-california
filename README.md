@@ -73,14 +73,5 @@ To reproduce the analysis and forecasts, follow these steps:
    * Load the historical Zillow housing dataset (2000–2024).
    * Run the cleaning and exploratory analysis cells to view city-level price trends.
    * Execute the forecasting cells to generate **5-year projections (2025–2029)**.
-   * Review the generated visualizations (line plots, comparison charts).
-
-5. **Outputs generated**
-
-   * Historical price trend plots for Los Angeles, San Diego, San Francisco, and San Jose.
-   * Forecast plots extending the series to 2029.
-   * Comparative graphs showing affordability pressures across cities.
-
-```
 
 
