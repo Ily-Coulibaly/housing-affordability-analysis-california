@@ -2,11 +2,11 @@
 
 ## Project Overview  
 
-This project studies housing price trends in four of California's biggest cities — **Los Angeles, San Diego, San Francisco, and San Jose** — to better understand affordability challenges and the potential risk of homelessness in the state.  
+This project studies housing price trends in four of California's biggest cities, Los Angeles, San Diego, San Francisco, and San Jose, to better understand affordability challenges and the potential risk of homelessness in the state.  
 
 The analysis covers historical housing prices from **2000 to 2024**, then extends the timeline by **predicting price trends for the next 5 years (2025–2029)**. By combining observed data with forecasts, the project evaluates whether stable housing in California is becoming more or less attainable for residents in the near future.  
 
-<img width="909" height="537" alt="Screenshot 2025-09-01 at 12 41 32 PM" src="https://github.com/user-attachments/assets/c5f5c862-5446-4dc4-9053-4b2932d53728" />
+<img width="920" height="365" alt="Screenshot 2025-09-01 at 12 45 07 PM" src="https://github.com/user-attachments/assets/5ae53cc0-fdf2-4a48-b908-c0042e49cb27" />
 
 ## Technical Skills Demonstrated
 
